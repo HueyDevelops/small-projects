@@ -1,0 +1,65 @@
+ body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  
+}
+
+ .hero-image {
+  background-image: url("img/orange-gradient.png");
+  height: 85%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+		  
+		  .padH{
+			  padding-top: 1%;
+			  padding-bottom: 2%;
+		  }
+		  
+		  .padTop{
+			  padding-top: 5%;
+		  }
+
+.padTopF{
+	padding-top: 1%;
+}
+
+ .padTopL{
+			  padding-top: 2%;
+		  }
+
+
+.list{
+	height: 100%;
+}
+
+
+
+.footer{
+	margin: 0;
+	padding: 0;
+
+	height: 5%;
+
+}
+
+.roman {
+  list-style-type: upper-roman;
+}
+
+
+
